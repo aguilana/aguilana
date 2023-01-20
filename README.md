@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **aguilawebdev@gmail.com**
-
 - ⚡ Fun fact **I used to run competitively and make a great espresso**
 
 <h3 align="left">Connect with me:</h3>
