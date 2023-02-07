@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react**
 
-- ⚡ Fun fact **I used to run competitively and make a great espresso**
+- ⚡ Fun fact **I used to run at a very competitive level...now I ride bikes and make a great espresso**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
