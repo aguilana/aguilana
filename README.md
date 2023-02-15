@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **more Data Visualization Libraries to integrate with React**
 
-- 💬 Ask me about **react**
-
 - ⚡ Fun fact **I used to run at a very competitive level...now I ride bikes and make a great espresso**
 
 <h3 align="left">Connect with me:</h3>
