@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick Aguila</h1>
 <h3 align="center">A passionate software engineer from the USA with family from Chile and Croatia </h3>
-<img align="right" alt="big-data" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FsRFEa8lbeC7zbcIZZR%2Fgiphy.gif&f=1&nofb=1&ipt=0751b79b768f34dcce62b3c80ce6ccc9884183deb9b270b4787860c8c963d63f&ipo=images">
 
 - 🌱 I’m currently learning **more Data Visualization Libraries to integrate with React**
 
