@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick Aguila</h1>
-<h3 align="center">A passionate software engineer from the USA with family from Chile and Croatia </h3>
+<h3 align="center">A passionate software engineer from the USA </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
